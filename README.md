@@ -2,7 +2,7 @@
 
 This respository contains code for the project "Predicting hospital readmission of diabetic patients using ensemble learning"
 
-## Abstract
+## Introduction
 
 Diabetes is a disorder in which there are high blood sugar levels. Therefore, the assessment of diabetes
 patients during hospitalization is of great importance. The goal of this research is to predict the
